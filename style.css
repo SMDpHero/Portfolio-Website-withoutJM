@@ -21,10 +21,10 @@ body {
   padding-left: 3%;
   padding-top: 100px;
   height: 250px;
+  
 }
 .half-width img {
-  width: 100%;
-  vertical-align: middle;
+  width: 70%;
 }
 .half-width-text {
   padding-top: 40px;
@@ -40,6 +40,7 @@ body {
   margin-top: 40px;
   color: rgb(151, 151, 151);
 }
+
 .btn-hire-me {
   text-decoration: none;
   background-color: rgb(0, 102, 255);
